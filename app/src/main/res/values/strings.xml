@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">9-NHilt</string>
+    <string name="text_info">this text fetch from strings</string>
+</resources>
